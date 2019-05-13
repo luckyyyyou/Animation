@@ -23,7 +23,7 @@ public class Ball extends View {
     Paint mCirclePaint,mArcPaint,mTextPaint;
     float x,y,r,length,mShowSize;
     RectF rectF;
-    String mShowText=0+"%";
+    String mShowText=00+"%";
     public Ball(Context context) {
         this(context, null);
     }
